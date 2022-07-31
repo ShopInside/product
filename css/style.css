@@ -524,6 +524,9 @@ footer ul{
 .categoria{
     position: center;
 }
+
+
+
 /* Responsividade */
 @media (max-width: 1080px){
     .nav{
